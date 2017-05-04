@@ -14,8 +14,8 @@ body{
 }
 
 .container{
-	width: 900px;
-	/*width: 65.88%;*/
+	/*width: 900px;*/
+	width: 65.88%;
 	margin: 0 auto;
 }
 
@@ -60,7 +60,7 @@ body{
 	margin-top: 5px;
 }
 
-.form_contact{
+/*.form_contact{
 	text-align: center;
 	padding: 40px;
 }
@@ -87,9 +87,9 @@ body{
 	font-weight: 1em;
 	width: auto;
 	margin-top: 10px;
-}
+}*/
 
-/*.form_contact{
+.form_contact{
 	color: #f0efe7;
 	padding: 40px;
 	margin: 40px;
@@ -118,7 +118,7 @@ body{
 
 .form_contact label, .form_contact input, .form_contact textarea{
 	width: 100%;
-}*/
+}
 
 .main_footer{
 	text-align: center;
@@ -128,8 +128,8 @@ body{
 	padding: 40px;
 }
 
-/*@media(max-width: 45em){
+@media(max-width: 45em){
 	.container{
 		width: 98%;
 	}
-}*/
+}
